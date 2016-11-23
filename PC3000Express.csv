@@ -1,0 +1,487 @@
+Vendor,"PC-3000 Utility",Family
+Fujitsu,"Fujitsu 2.5 / 3.5 HDD",MHD2xxxAT
+Fujitsu,"Fujitsu 2.5 / 3.5 HDD",MHK2xxxAT
+Fujitsu,"Fujitsu 2.5 / 3.5 HDD",MHM2xxxAT
+Fujitsu,"Fujitsu 2.5 / 3.5 HDD",MHN2xxxAT
+Fujitsu,"Fujitsu 2.5 / 3.5 HDD",MHR2xxxAT
+Fujitsu,"Fujitsu 2.5 / 3.5 HDD",MHS2xxxAT
+Fujitsu,"Fujitsu 2.5 / 3.5 HDD",MHT2xxxAT
+Fujitsu,"Fujitsu 2.5 / 3.5 HDD",MHV2xxxAT/AH
+Fujitsu,"Fujitsu 2.5 / 3.5 HDD",MHW2xxxBH
+Fujitsu,"Fujitsu 2.5 / 3.5 HDD",MHW2xxxBJ
+Fujitsu,"Fujitsu 2.5 / 3.5 HDD",MHX2xxxBT
+Fujitsu,"Fujitsu 2.5 / 3.5 HDD",MHY2xxxBT/BH
+Fujitsu,"Fujitsu 2.5 / 3.5 HDD",MHZ2xxxBT/BH
+Fujitsu,"Fujitsu 2.5 / 3.5 HDD",MJA2xxxBH
+Fujitsu,"Fujitsu 2.5 / 3.5 HDD",MPA3xxxAT
+Fujitsu,"Fujitsu 2.5 / 3.5 HDD",MPB3xxxAT
+Fujitsu,"Fujitsu 2.5 / 3.5 HDD",MPC3xxxAT
+Fujitsu,"Fujitsu 2.5 / 3.5 HDD",MPD3xxxAT/AH
+Fujitsu,"Fujitsu 2.5 / 3.5 HDD",MPE3xxxAT/AE/AH
+Fujitsu,"Fujitsu 2.5 / 3.5 HDD",MPF3xxxAH
+Fujitsu,"Fujitsu 2.5 / 3.5 HDD",MPF3xxxAT
+Fujitsu,"Fujitsu 2.5 / 3.5 HDD",MPG3xxxAT/AH/AHE
+"Hitachi / IBM / HGST",HITACHI-IBM-ARM,5410A9
+"Hitachi / IBM / HGST",HITACHI-IBM-ARM,5432A7
+"Hitachi / IBM / HGST",HITACHI-IBM-ARM,5450A7
+"Hitachi / IBM / HGST",HITACHI-IBM-ARM,5475A9
+"Hitachi / IBM / HGST",HITACHI-IBM-ARM,5C10CLA3
+"Hitachi / IBM / HGST",HITACHI-IBM-ARM,5C30ALA6
+"Hitachi / IBM / HGST",HITACHI-IBM-ARM,7210A9
+"Hitachi / IBM / HGST",HITACHI-IBM-ARM,7210CLA3
+"Hitachi / IBM / HGST",HITACHI-IBM-ARM,7210DLE6
+"Hitachi / IBM / HGST",HITACHI-IBM-ARM,7220ALA3
+"Hitachi / IBM / HGST",HITACHI-IBM-ARM,7230ALA6
+"Hitachi / IBM / HGST",HITACHI-IBM-ARM,7230BLA3
+"Hitachi / IBM / HGST",HITACHI-IBM-ARM,7232A7
+"Hitachi / IBM / HGST",HITACHI-IBM-ARM,7250A7
+"Hitachi / IBM / HGST",HITACHI-IBM-ARM,7275A9
+"Hitachi / IBM / HGST",HITACHI-IBM-ARM,HUA5C30ALA6
+"Hitachi / IBM / HGST",HITACHI-IBM-ARM,HUA7220ALA3
+"Hitachi / IBM / HGST",HITACHI-IBM-ARM,HUA7220CLA3
+"Hitachi / IBM / HGST",HITACHI-IBM-ARM,HUA7230ALA6
+"Hitachi / IBM / HGST",HITACHI-IBM-ARM,HU_7240AL
+"Hitachi / IBM / HGST",HITACHI-IBM,ATCS
+"Hitachi / IBM / HGST",HITACHI-IBM,ATDA
+"Hitachi / IBM / HGST",HITACHI-IBM,ATMR
+"Hitachi / IBM / HGST",HITACHI-IBM,AVER
+"Hitachi / IBM / HGST",HITACHI-IBM,AVV2
+"Hitachi / IBM / HGST",HITACHI-IBM,AVVA
+"Hitachi / IBM / HGST",HITACHI-IBM,AVVN
+"Hitachi / IBM / HGST",HITACHI-IBM,DARA
+"Hitachi / IBM / HGST",HITACHI-IBM,DJNA
+"Hitachi / IBM / HGST",HITACHI-IBM,DJSA
+"Hitachi / IBM / HGST",HITACHI-IBM,DLAT
+"Hitachi / IBM / HGST",HITACHI-IBM,DPTA
+"Hitachi / IBM / HGST",HITACHI-IBM,DTLA
+"Hitachi / IBM / HGST",HITACHI-IBM,HDx7210SL
+"Hitachi / IBM / HGST",HITACHI-IBM,HDx7216PL
+"Hitachi / IBM / HGST",HITACHI-IBM,"HDx7225VLAT (VLAT)"
+"Hitachi / IBM / HGST",HITACHI-IBM,HDx7250GL
+"Hitachi / IBM / HGST",HITACHI-IBM,HDx7250VLAT
+"Hitachi / IBM / HGST",HITACHI-IBM,HEJ4250F9
+"Hitachi / IBM / HGST",HITACHI-IBM,HTS4212H9
+"Hitachi / IBM / HGST",HITACHI-IBM,HTS424
+"Hitachi / IBM / HGST",HITACHI-IBM,"HTS5410G9 (HTS541)"
+"Hitachi / IBM / HGST",HITACHI-IBM,HTS5412H9
+"Hitachi / IBM / HGST",HITACHI-IBM,HTS5416J9
+"Hitachi / IBM / HGST",HITACHI-IBM,HTS5425K9
+"Hitachi / IBM / HGST",HITACHI-IBM,HTS548
+"Hitachi / IBM / HGST",HITACHI-IBM,HTS721
+"Hitachi / IBM / HGST",HITACHI-IBM,HTS726
+"Hitachi / IBM / HGST",HITACHI-IBM,KLAT
+"Hitachi / IBM / HGST",HITACHI-IBM,PLAT
+"Hitachi / IBM / HGST","Native 2.5 inch families","C4K40 (DK13FA)"
+"Hitachi / IBM / HGST","Native 2.5 inch families",C4K60
+"Hitachi / IBM / HGST","Native 2.5 inch families",DK23AA
+"Hitachi / IBM / HGST","Native 2.5 inch families",DK23BA
+"Hitachi / IBM / HGST","Native 2.5 inch families",DK23CA
+"Hitachi / IBM / HGST","Native 2.5 inch families",DK23DA
+"Hitachi / IBM / HGST","Native 2.5 inch families",DK23EA
+"Hitachi / IBM / HGST","Native 2.5 inch families",DK23EB
+"Hitachi / IBM / HGST","Native 2.5 inch families",DK23FA
+"Hitachi / IBM / HGST","Native 2.5 inch families",DK23FB
+Maxtor,"DSP / Poker / Ardent / Beagle","ARES 64K"
+Maxtor,"DSP / Poker / Ardent / Beagle","Athena DSP"
+Maxtor,"DSP / Poker / Ardent / Beagle","Athena Poker"
+Maxtor,"DSP / Poker / Ardent / Beagle",CALYPSO
+Maxtor,"DSP / Poker / Ardent / Beagle",Falcon
+Maxtor,"DSP / Poker / Ardent / Beagle",GRIZZLY
+Maxtor,"DSP / Poker / Ardent / Beagle",N40P
+Maxtor,"DSP / Poker / Ardent / Beagle","N40P SATA"
+Maxtor,"DSP / Poker / Ardent / Beagle",Nike
+Maxtor,"DSP / Poker / Ardent / Beagle","Previous Model"
+Maxtor,"DSP / Poker / Ardent / Beagle",Proxima
+Maxtor,"DSP / Poker / Ardent / Beagle",Rigel
+Maxtor,"DSP / Poker / Ardent / Beagle","Romulus DSP"
+Maxtor,"DSP / Poker / Ardent / Beagle","Romulus Poker"
+Maxtor,"DSP / Poker / Ardent / Beagle",SABRE
+Maxtor,"DSP / Poker / Ardent / Beagle",SABRE2
+Maxtor,"DSP / Poker / Ardent / Beagle",SHASTA
+Maxtor,"DSP / Poker / Ardent / Beagle",Vulcan
+"Quantum / Quantum-Maxtor",QUANTUM,AS
+"Quantum / Quantum-Maxtor",QUANTUM,CR
+"Quantum / Quantum-Maxtor",QUANTUM,CX
+"Quantum / Quantum-Maxtor",QUANTUM,D540X-4K
+"Quantum / Quantum-Maxtor",QUANTUM,D740X-6L
+"Quantum / Quantum-Maxtor",QUANTUM,EL
+"Quantum / Quantum-Maxtor",QUANTUM,EX
+"Quantum / Quantum-Maxtor",QUANTUM,KA
+"Quantum / Quantum-Maxtor",QUANTUM,LM
+"Quantum / Quantum-Maxtor",QUANTUM,Lct10
+"Quantum / Quantum-Maxtor",QUANTUM,Lct15
+"Quantum / Quantum-Maxtor",QUANTUM,Lct20
+"Quantum / Quantum-Maxtor",QUANTUM,Lct8
+"Quantum / Quantum-Maxtor",QUANTUM,SE
+"Quantum / Quantum-Maxtor",QUANTUM,ST
+"Quantum / Quantum-Maxtor",QUANTUM,TM
+Samsung,"Spin Point USB",CAESAR
+Samsung,"Spin Point USB",DELPHI
+Samsung,"Spin Point USB",F1_3D
+Samsung,"Spin Point USB",F2_EG
+Samsung,"Spin Point USB",F3
+Samsung,"Spin Point USB",F3_4D
+Samsung,"Spin Point USB",F4
+Samsung,"Spin Point USB",F4_3D
+Samsung,"Spin Point USB","M40S 2.5''"
+Samsung,"Spin Point USB","M5_P1 2.5''"
+Samsung,"Spin Point USB","M60(S) 2.5''"
+Samsung,"Spin Point USB","M6S_2D 2.5''"
+Samsung,"Spin Point USB","M7E 2.5''"
+Samsung,"Spin Point USB","M7S2 2.5''"
+Samsung,"Spin Point USB","M80(S) 2.5''"
+Samsung,"Spin Point USB","M8E 2.5''"
+Samsung,"Spin Point USB","M9T 2.5''"
+Samsung,"Spin Point USB","MAGMA 2.5''"
+Samsung,"Spin Point USB","MANGO 2.5''"
+Samsung,"Spin Point USB","MH80 2.5''"
+Samsung,"Spin Point USB","MP4 2.5''"
+Samsung,"Spin Point USB","MT1 2.5''"
+Samsung,"Spin Point USB","MT2 2.5''"
+Samsung,"Spin Point USB","N1 1.8''"
+Samsung,"Spin Point USB","N2B 1.8''"
+Samsung,"Spin Point USB","N3 1.8''"
+Samsung,"Spin Point USB","NEON 1.8''"
+Samsung,"Spin Point USB",P80A
+Samsung,"Spin Point USB",P80M
+Samsung,"Spin Point USB",PALO
+Samsung,"Spin Point USB",PANGO
+Samsung,"Spin Point USB",PARAGON
+Samsung,"Spin Point USB",POSEIDON
+Samsung,"Spin Point USB",PUMA
+Samsung,"Spin Point USB",RUBICON
+Samsung,"Spin Point USB",STORM2
+Samsung,"Spin Point USB",STORM2_G
+Samsung,"Spin Point USB",T166(S)
+Samsung,"Spin Point USB",TRIDENT
+Samsung,"Spin Point USB",TRIDENT3
+Samsung,"Spin Point USB",VANGO
+Samsung,"Spin Point USB",VANGOPLUS
+Samsung,"Spin Point USB",VELOCE
+Samsung,"Spin Point USB",VERNA
+Samsung,"Spin Point USB",VERNALITE
+Samsung,"Spin Point USB",VICTOR
+Samsung,"Spin Point USB",VICTORPLUS
+Samsung,"Spin Point USB",VOYAGER11P
+Samsung,"Spin Point",CAESAR
+Samsung,"Spin Point",DELPHI
+Samsung,"Spin Point",F1_3D
+Samsung,"Spin Point",F2_EG
+Samsung,"Spin Point",F3
+Samsung,"Spin Point",F3_4D
+Samsung,"Spin Point",F4
+Samsung,"Spin Point",F4_3D
+Samsung,"Spin Point","M40S 2.5''"
+Samsung,"Spin Point","M5_P1 2.5''"
+Samsung,"Spin Point","M60(S) 2.5''"
+Samsung,"Spin Point","M6S_2D 2.5''"
+Samsung,"Spin Point","M7E 2.5''"
+Samsung,"Spin Point","M7S2 2.5''"
+Samsung,"Spin Point","M80(S) 2.5''"
+Samsung,"Spin Point","M8E 2.5''"
+Samsung,"Spin Point","M9T 2.5''"
+Samsung,"Spin Point","MAGMA 2.5''"
+Samsung,"Spin Point","MANGO 2.5''"
+Samsung,"Spin Point","MH80 2.5''"
+Samsung,"Spin Point","MP4 2.5''"
+Samsung,"Spin Point","MT1 2.5''"
+Samsung,"Spin Point","MT2 2.5''"
+Samsung,"Spin Point","N1 1.8''"
+Samsung,"Spin Point","N2B 1.8''"
+Samsung,"Spin Point","N3 1.8''"
+Samsung,"Spin Point","NEON 1.8''"
+Samsung,"Spin Point",P80A
+Samsung,"Spin Point",P80M
+Samsung,"Spin Point",PALO
+Samsung,"Spin Point",PANGO
+Samsung,"Spin Point",PARAGON
+Samsung,"Spin Point",POSEIDON
+Samsung,"Spin Point",PUMA
+Samsung,"Spin Point",RUBICON
+Samsung,"Spin Point",STORM2
+Samsung,"Spin Point",STORM2_G
+Samsung,"Spin Point",T166(S)
+Samsung,"Spin Point",TRIDENT
+Samsung,"Spin Point",TRIDENT3
+Samsung,"Spin Point",VANGO
+Samsung,"Spin Point",VANGOPLUS
+Samsung,"Spin Point",VELOCE
+Samsung,"Spin Point",VERNA
+Samsung,"Spin Point",VERNALITE
+Samsung,"Spin Point",VICTOR
+Samsung,"Spin Point",VICTORPLUS
+Samsung,"Spin Point",VOYAGER11P
+Seagate,"Seagate F3 Architecture","Barracuda 7200.11"
+Seagate,"Seagate F3 Architecture","Barracuda 7200.12"
+Seagate,"Seagate F3 Architecture","Barracuda 7200.14"
+Seagate,"Seagate F3 Architecture","Barracuda ES.2"
+Seagate,"Seagate F3 Architecture","Barracuda Green"
+Seagate,"Seagate F3 Architecture","Barracuda LP"
+Seagate,"Seagate F3 Architecture","Free Play"
+Seagate,"Seagate F3 Architecture","Momentus 5400.5"
+Seagate,"Seagate F3 Architecture","Momentus 5400.6"
+Seagate,"Seagate F3 Architecture","Momentus 7200.3"
+Seagate,"Seagate F3 Architecture","Momentus 7200.4"
+Seagate,"Seagate F3 Architecture","Momentus Thin"
+Seagate,"Seagate F3 Architecture","Momentus XT"
+Seagate,"Seagate U5, Baracuda XX","Barracuda 7200.10 Galaxy2D"
+Seagate,"Seagate U5, Baracuda XX","Barracuda 7200.10 NHawk Plus"
+Seagate,"Seagate U5, Baracuda XX","Barracuda 7200.7"
+Seagate,"Seagate U5, Baracuda XX","Barracuda 7200.7 PUMA"
+Seagate,"Seagate U5, Baracuda XX","Barracuda 7200.8 Tonka"
+Seagate,"Seagate U5, Baracuda XX","Barracuda 7200.9 Tonka2"
+Seagate,"Seagate U5, Baracuda XX","Barracuda 7200.9 Tonka40"
+Seagate,"Seagate U5, Baracuda XX","Barracuda I"
+Seagate,"Seagate U5, Baracuda XX","Barracuda II"
+Seagate,"Seagate U5, Baracuda XX","Barracuda III"
+Seagate,"Seagate U5, Baracuda XX","Barracuda IV"
+Seagate,"Seagate U5, Baracuda XX","Barracuda V"
+Seagate,"Seagate U5, Baracuda XX","Momentus (MLite - LD25.1)"
+Seagate,"Seagate U5, Baracuda XX","Momentus (Mercury)"
+Seagate,"Seagate U5, Baracuda XX","Momentus (Mustang - LD25.2)"
+Seagate,"Seagate U5, Baracuda XX","Momentus (Neptune)"
+Seagate,"Seagate U5, Baracuda XX","Momentus (Venus)"
+Seagate,"Seagate U5, Baracuda XX","Momentus 5400.4 (Corsair)"
+Seagate,"Seagate U5, Baracuda XX","Momentus 7200.1 (M72)"
+Seagate,"Seagate U5, Baracuda XX","Momentus 7200.2 (Galileo)"
+Seagate,"Seagate U5, Baracuda XX","Momentus 7200.2 (GalileoPlus)"
+Seagate,"Seagate U5, Baracuda XX","U Series 7"
+Seagate,"Seagate U5, Baracuda XX","U Series X"
+Seagate,"Seagate U5, Baracuda XX",U5
+Toshiba,"2.5 inch family /USB/",02TSKB
+Toshiba,"2.5 inch family /USB/",04GAH
+Toshiba,"2.5 inch family /USB/",04GAL
+Toshiba,"2.5 inch family /USB/",08GAL-GAH
+Toshiba,"2.5 inch family /USB/",09GAL-GAH
+Toshiba,"2.5 inch family /USB/",10GAH
+Toshiba,"2.5 inch family /USB/",11GAH
+Toshiba,"2.5 inch family /USB/",14GAL
+Toshiba,"2.5 inch family /USB/",16GAP
+Toshiba,"2.5 inch family /USB/",18GAP
+Toshiba,"2.5 inch family /USB/",19GAX
+Toshiba,"2.5 inch family /USB/",21GAS
+Toshiba,"2.5 inch family /USB/",22GAS
+Toshiba,"2.5 inch family /USB/",24GAY
+Toshiba,"2.5 inch family /USB/",25GAL
+Toshiba,"2.5 inch family /USB/",25GAS
+Toshiba,"2.5 inch family /USB/",26GAC
+Toshiba,"2.5 inch family /USB/",26GAX
+Toshiba,"2.5 inch family /USB/",29GSG
+Toshiba,"2.5 inch family /USB/",31GAL
+Toshiba,"2.5 inch family /USB/",32GAX
+Toshiba,"2.5 inch family /USB/",32GSX
+Toshiba,"2.5 inch family /USB/",34GAL
+Toshiba,"2.5 inch family /USB/",34GAX
+Toshiba,"2.5 inch family /USB/",34GSX
+Toshiba,"2.5 inch family /USB/",35GSS
+Toshiba,"2.5 inch family /USB/",36GAC
+Toshiba,"2.5 inch family /USB/",37GSX
+Toshiba,"2.5 inch family /USB/",46GSX
+Toshiba,"2.5 inch family /USB/",50GACE
+Toshiba,"2.5 inch family /USB/",52GSX
+Toshiba,"2.5 inch family /USB/",55GSX
+Toshiba,"2.5 inch family /USB/",55GSXF
+Toshiba,"2.5 inch family /USB/",55GSXN
+Toshiba,"2.5 inch family /USB/",56GSY
+Toshiba,"2.5 inch family /USB/",59GSM
+Toshiba,"2.5 inch family /USB/",59GSMP
+Toshiba,"2.5 inch family /USB/",59GSX
+Toshiba,"2.5 inch family /USB/",59GSXP
+Toshiba,"2.5 inch family /USB/",61GSY
+Toshiba,"2.5 inch family /USB/",63GSX
+Toshiba,"2.5 inch family /USB/",64GSY
+Toshiba,"2.5 inch family /USB/",65GSX
+Toshiba,"2.5 inch family /USB/",65GSXN
+Toshiba,"2.5 inch family /USB/",75GSX
+Toshiba,"2.5 inch family /USB/",76GSX
+Toshiba,"2.5 inch family /USB/",HDWE1
+Toshiba,"2.5 inch family /USB/",HDWJ1
+Toshiba,"2.5 inch family /USB/",MG03ACA
+Toshiba,"2.5 inch family /USB/",MG04ACA
+Toshiba,"2.5 inch family /USB/",MQ01ABD
+Toshiba,"2.5 inch family /USB/",MQ01ABDH
+Toshiba,"2.5 inch family /USB/",MQ01ABF
+Toshiba,"2.5 inch family /USB/",MQ01UBD
+Toshiba,"2.5 inch family",02TSKB
+Toshiba,"2.5 inch family",04GAH
+Toshiba,"2.5 inch family",04GAL
+Toshiba,"2.5 inch family",08GAL-GAH
+Toshiba,"2.5 inch family",09GAL-GAH
+Toshiba,"2.5 inch family",10GAH
+Toshiba,"2.5 inch family",11GAH
+Toshiba,"2.5 inch family",14GAL
+Toshiba,"2.5 inch family",16GAP
+Toshiba,"2.5 inch family",18GAP
+Toshiba,"2.5 inch family",19GAX
+Toshiba,"2.5 inch family",21GAS
+Toshiba,"2.5 inch family",22GAS
+Toshiba,"2.5 inch family",24GAY
+Toshiba,"2.5 inch family",25GAL
+Toshiba,"2.5 inch family",25GAS
+Toshiba,"2.5 inch family",26GAC
+Toshiba,"2.5 inch family",26GAX
+Toshiba,"2.5 inch family",29GSG
+Toshiba,"2.5 inch family",31GAL
+Toshiba,"2.5 inch family",32GAX
+Toshiba,"2.5 inch family",32GSX
+Toshiba,"2.5 inch family",34GAL
+Toshiba,"2.5 inch family",34GAX
+Toshiba,"2.5 inch family",34GSX
+Toshiba,"2.5 inch family",35GSS
+Toshiba,"2.5 inch family",36GAC
+Toshiba,"2.5 inch family",37GSX
+Toshiba,"2.5 inch family",46GSX
+Toshiba,"2.5 inch family",50GACE
+Toshiba,"2.5 inch family",52GSX
+Toshiba,"2.5 inch family",55GSX
+Toshiba,"2.5 inch family",55GSXF
+Toshiba,"2.5 inch family",55GSXN
+Toshiba,"2.5 inch family",56GSY
+Toshiba,"2.5 inch family",59GSM
+Toshiba,"2.5 inch family",59GSMP
+Toshiba,"2.5 inch family",59GSX
+Toshiba,"2.5 inch family",59GSXP
+Toshiba,"2.5 inch family",61GSY
+Toshiba,"2.5 inch family",63GSX
+Toshiba,"2.5 inch family",64GSY
+Toshiba,"2.5 inch family",65GSX
+Toshiba,"2.5 inch family",65GSXN
+Toshiba,"2.5 inch family",75GSX
+Toshiba,"2.5 inch family",76GSX
+Toshiba,"2.5 inch family",HDWE1
+Toshiba,"2.5 inch family",HDWJ1
+Toshiba,"2.5 inch family",MG03ACA
+Toshiba,"2.5 inch family",MG04ACA
+Toshiba,"2.5 inch family",MQ01ABD
+Toshiba,"2.5 inch family",MQ01ABDH
+Toshiba,"2.5 inch family",MQ01ABF
+Toshiba,"2.5 inch family",MQ01UBD
+"Western Digital","Caviar Cyl32 (SATA)",Eagle
+"Western Digital","Caviar Cyl32 (SATA)",Expedition
+"Western Digital","Caviar Cyl32 (SATA)",Hercules
+"Western Digital","Caviar Cyl32 (SATA)",Odyssey
+"Western Digital","Caviar Cyl32 (SATA)",Polaris
+"Western Digital","Caviar Cyl32 (SATA)",Safari
+"Western Digital","Caviar Cyl32","Caviar Cyl 16 bit"
+"Western Digital","Caviar Cyl32","Caviar Cyl 32 bit"
+"Western Digital","WD Caviar Old Models","WD Caviar Arch II"
+"Western Digital","WD Caviar Old Models","WD Caviar Arch III-IV"
+"Western Digital","WD Caviar Old Models","WD Caviar WDxxxAA"
+"Western Digital","WD Caviar Old Models","WD Caviar WDxxxBA"
+"Western Digital","WD Caviar Old Models","WD Spartan WDxxxDA"
+"Western Digital","WDC Marvell USB/COM",Venus
+"Western Digital","WDC Marvell",Aquarius
+"Western Digital","WDC Marvell",Aries
+"Western Digital","WDC Marvell",Atlantis
+"Western Digital","WDC Marvell","Atlantis PATA"
+"Western Digital","WDC Marvell","Aztec PL"
+"Western Digital","WDC Marvell",Barbados
+"Western Digital","WDC Marvell","Big Bear"
+"Western Digital","WDC Marvell","Big BearH"
+"Western Digital","WDC Marvell",Bladeh15
+"Western Digital","WDC Marvell",Bobcat
+"Western Digital","WDC Marvell",Buccaneer
+"Western Digital","WDC Marvell",Callisto
+"Western Digital","WDC Marvell",Cougar
+"Western Digital","WDC Marvell",Cypress
+"Western Digital","WDC Marvell","DF4 4KLT"
+"Western Digital","WDC Marvell","DF4PL RE"
+"Western Digital","WDC Marvell",Denali
+"Western Digital","WDC Marvell",Diablo3D
+"Western Digital","WDC Marvell",Diablo3S
+"Western Digital","WDC Marvell",Dolphin
+"Western Digital","WDC Marvell",Draco
+"Western Digital","WDC Marvell",DragFly1
+"Western Digital","WDC Marvell",DragFly2
+"Western Digital","WDC Marvell",DragFly3
+"Western Digital","WDC Marvell",DragFly4
+"Western Digital","WDC Marvell",Dragon
+"Western Digital","WDC Marvell",Endeavor
+"Western Digital","WDC Marvell",Esprit
+"Western Digital","WDC Marvell",Europa
+"Western Digital","WDC Marvell","Everest V"
+"Western Digital","WDC Marvell",Everest5
+"Western Digital","WDC Marvell",FBH15SL
+"Western Digital","WDC Marvell",FBLite
+"Western Digital","WDC Marvell",Firebird
+"Western Digital","WDC Marvell",Gekko
+"Western Digital","WDC Marvell",Giant
+"Western Digital","WDC Marvell",Giant2
+"Western Digital","WDC Marvell",Hawk
+"Western Digital","WDC Marvell",Hawk2
+"Western Digital","WDC Marvell",Helios
+"Western Digital","WDC Marvell",HubLT2
+"Western Digital","WDC Marvell",Hubble
+"Western Digital","WDC Marvell","Hubble LT"
+"Western Digital","WDC Marvell","Hulk (96)"
+"Western Digital","WDC Marvell","Hulk (A6)"
+"Western Digital","WDC Marvell",Inca
+"Western Digital","WDC Marvell",Jamaica
+"Western Digital","WDC Marvell","Jamaica 4K"
+"Western Digital","WDC Marvell","Jamaica 4KV"
+"Western Digital","WDC Marvell",Jupiter
+"Western Digital","WDC Marvell",KOJN_RE
+"Western Digital","WDC Marvell",Kermit
+"Western Digital","WDC Marvell",Lynx
+"Western Digital","WDC Marvell","MZTGP RE"
+"Western Digital","WDC Marvell",Makalu
+"Western Digital","WDC Marvell",Malibu
+"Western Digital","WDC Marvell",Mammoth
+"Western Digital","WDC Marvell","Manpl RE"
+"Western Digital","WDC Marvell","Manti RE"
+"Western Digital","WDC Marvell",Mariner
+"Western Digital","WDC Marvell","Marn5 4K"
+"Western Digital","WDC Marvell",Mars
+"Western Digital","WDC Marvell",McKinley
+"Western Digital","WDC Marvell",Mercury
+"Western Digital","WDC Marvell",Midori
+"Western Digital","WDC Marvell",Orion
+"Western Digital","WDC Marvell",Pinclite
+"Western Digital","WDC Marvell",Pinnacle
+"Western Digital","WDC Marvell","Pinnacle PATA"
+"Western Digital","WDC Marvell",Pluto
+"Western Digital","WDC Marvell",Raider
+"Western Digital","WDC Marvell",Rembrndt
+"Western Digital","WDC Marvell","STG Twin lakes"
+"Western Digital","WDC Marvell","Sabre53 (Sabre)"
+"Western Digital","WDC Marvell","Sabre58 (Unicorn)"
+"Western Digital","WDC Marvell","Sadle 2D"
+"Western Digital","WDC Marvell","Sadle BK"
+"Western Digital","WDC Marvell","Sadle G6"
+"Western Digital","WDC Marvell",Saturn
+"Western Digital","WDC Marvell",Scorpio
+"Western Digital","WDC Marvell",Sequoia
+"Western Digital","WDC Marvell","Sequoia PMR"
+"Western Digital","WDC Marvell","Sequoia RE"
+"Western Digital","WDC Marvell",Shasta
+"Western Digital","WDC Marvell","Shasta 2D"
+"Western Digital","WDC Marvell","Shasta 3D"
+"Western Digital","WDC Marvell",Shrek
+"Western Digital","WDC Marvell","Shrek LT"
+"Western Digital","WDC Marvell",Spider
+"Western Digital","WDC Marvell",Starling
+"Western Digital","WDC Marvell","Sumt RE"
+"Western Digital","WDC Marvell",Tahoe
+"Western Digital","WDC Marvell","Tahoe 2D"
+"Western Digital","WDC Marvell","Tahoe LT"
+"Western Digital","WDC Marvell","Tahoe XL"
+"Western Digital","WDC Marvell",Tornado
+"Western Digital","WDC Marvell","Tornado 2D"
+"Western Digital","WDC Marvell","Tornado 2PMR"
+"Western Digital","WDC Marvell","Tornado 2R"
+"Western Digital","WDC Marvell","Tornado 3D"
+"Western Digital","WDC Marvell","Tornado PATA"
+"Western Digital","WDC Marvell",TrailXLB
+"Western Digital","WDC Marvell",TrailXLS
+"Western Digital","WDC Marvell",Trails
+"Western Digital","WDC Marvell",TresXLB
+"Western Digital","WDC Marvell",TresXLB2
+"Western Digital","WDC Marvell",Tresselb
+"Western Digital","WDC Marvell",Tressels
+"Western Digital","WDC Marvell",TtresXLS
+"Western Digital","WDC Marvell",Venus
+"Western Digital","WDC Marvell",Viking
+"Western Digital","WDC Marvell",Vivaldi
+"Western Digital","WDC Marvell","Vulcan RE"
+"Western Digital","WDC Marvell",Zephyr
+"Western Digital","WDC Marvell",Zeus
