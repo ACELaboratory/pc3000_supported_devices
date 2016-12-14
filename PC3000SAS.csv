@@ -1,0 +1,65 @@
+Vendor,"PC-3000 Utility",Family
+Fujitsu,Family,MAM
+Fujitsu,Family,MAN
+Fujitsu,Family,MAP
+Fujitsu,Family,MAS
+Fujitsu,Family,MAT
+Fujitsu,Family,MAU
+Fujitsu,Family,MAV
+Fujitsu,Family,MAW
+Fujitsu,Family,"MAX (SAS)"
+Fujitsu,Family,"MAX (SCSI)"
+Fujitsu,Family,MAY
+Fujitsu,Family,MBA
+Fujitsu,Family,MBE
+"Hitachi GST",Ultrastar,HUC101212CSS60x
+"Hitachi GST",Ultrastar,HUC1014xxCSxx
+"Hitachi GST",Ultrastar,HUC1030xxCSxx
+"Hitachi GST",Ultrastar,HUC1060xxCSxx
+"Hitachi GST",Ultrastar,HUC1090xxCSxx
+"Hitachi GST",Ultrastar,HUC1514xxCSxx
+"Hitachi GST",Ultrastar,HUC1560xxCSx20x
+"Hitachi GST",Ultrastar,HUS1514xxVLxx
+"Hitachi GST",Ultrastar,HUS1530xxVLxx
+"Hitachi GST",Ultrastar,HUS1545xxVLxx
+"Hitachi GST",Ultrastar,HUS1560xxVLxx
+"Hitachi GST",Ultrastar,HUS7230xxALS64x
+IBM,Family,"DDYS-Txxxx (36LZX)"
+IBM,Family,"DNES-3xxxx (18ES)"
+IBM,Family,"DPSS-3xxxx (36LP)"
+IBM,Family,"IC35xxxxUWD2-UCD2 (73LZX)"
+IBM,Family,"IC35xxxxUWDY (146Z10)"
+IBM,Family,"IC35xxxxUWPR-UCPR (36Z15)"
+IBM,Family,"IC35xxxxXWD2-XCD2 (73LZX)"
+Maxtor/Quantum,"ATLAS Family","Atlas 10K"
+Maxtor/Quantum,"ATLAS Family","Atlas 10K II"
+Maxtor/Quantum,"ATLAS Family","Atlas 10K III"
+Maxtor/Quantum,"ATLAS Family","Atlas 10K IV"
+Maxtor/Quantum,"ATLAS Family","Atlas 10K V"
+Maxtor/Quantum,"ATLAS Family","Atlas 15K"
+Maxtor/Quantum,"ATLAS Family","Atlas 15K2"
+Maxtor/Quantum,"ATLAS Family","Atlas IV"
+Maxtor/Quantum,"ATLAS Family","Atlas V"
+Seagate,"Cheetah/Baracuda Families","Barracuda ES.2"
+Seagate,"Cheetah/Baracuda Families","Cheetah 10K.6"
+Seagate,"Cheetah/Baracuda Families","Cheetah 10K.7"
+Seagate,"Cheetah/Baracuda Families","Cheetah 15K.3"
+Seagate,"Cheetah/Baracuda Families","Cheetah 15K.4"
+Seagate,"Cheetah/Baracuda Families","Cheetah 15K.5"
+Seagate,"Cheetah/Baracuda Families","Cheetah 15K.6"
+Seagate,"Cheetah/Baracuda Families","Cheetah 15K.7"
+Seagate,"Cheetah/Baracuda Families","Cheetah NS.2"
+Seagate,"Cheetah/Baracuda Families",Constellation
+Seagate,"Cheetah/Baracuda Families","Constellation ES"
+Seagate,"Cheetah/Baracuda Families","Constellation ES.2"
+Seagate,"Cheetah/Baracuda Families",Constellation.2
+Seagate,"Cheetah/Baracuda Families","Other SAS"
+Seagate,"Cheetah/Baracuda Families","Other SCSI"
+Seagate,"Cheetah/Baracuda Families","Savvio 10K.1"
+Seagate,"Cheetah/Baracuda Families","Savvio 10K.2"
+Seagate,"Cheetah/Baracuda Families","Savvio 10K.3"
+Seagate,"Cheetah/Baracuda Families","Savvio 10K.4"
+Seagate,"Cheetah/Baracuda Families","Savvio 10K.5"
+Seagate,"Cheetah/Baracuda Families","Savvio 15K.1"
+Seagate,"Cheetah/Baracuda Families","Savvio 15K.2"
+Seagate,"Cheetah/Baracuda Families","Savvio 15K.3"
